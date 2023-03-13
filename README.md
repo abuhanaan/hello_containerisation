@@ -1,3 +1,2 @@
 # hello_containerisation
-udacity hello demo for containerization
-# hello_containerisatio
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/abuhanaan/hello_containerisation/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/abuhanaan/hello_containerisation/tree/main)
